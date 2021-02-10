@@ -1,5 +1,14 @@
-## Welcome to GitHub Pages
-<video src="C:\Users\nrichards\Downloads\Nilestone1CodeReviewVideo.mov" width="320" height="200" controls preload></video>
+## Profressional Self Assessment
+
+## Code Review
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lzdZD19YHmE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Enhancement One: Software Design and Engineering
+
+## Enhancement Two: Algorithms and Data Structures
+
+## Enhancement Three: Databases
+
 You can use the [editor on GitHub](https://github.com/Nick2159x/CS499/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -26,12 +35,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nick2159x/CS499/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lzdZD19YHmE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lzdZD19YHmE"></iframe>
 
 
 You can use the [editor on GitHub](https://github.com/Nick2159x/CS499/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

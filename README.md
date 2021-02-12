@@ -7,6 +7,8 @@
 
 ## Enhancement One: Software Design and Engineering
 
+<a href="http://github.com/Nick2159x/CS499/tree/Master/Enhancement%20One" title=" Click for Enhancement One">Click for Enhancement One</a>
+
 ## Enhancement Two: Algorithms and Data Structures
 
 ## Enhancement Three: Databases

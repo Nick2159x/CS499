@@ -11,4 +11,6 @@
 
 ## Enhancement Two: Algorithms and Data Structures
 
+<a href="http://github.com/Nick2159x/CS499/tree/Master/Enhancement%20Two" title=" Click for Enhancement Two">Click for Enhancement Two</a>
+
 ## Enhancement Three: Databases
